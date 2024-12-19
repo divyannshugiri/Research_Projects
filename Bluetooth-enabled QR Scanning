@@ -38,6 +38,7 @@ Bluetooth POS Systems: Many modern POS systems use Bluetooth to connect to mobil
 but this is typically not directly linked to QR code scanning for UPI payments.
 
 Conclusion:
+
 While it’s technically possible to integrate Bluetooth and UPI for scanning QR codes, the more common approach remains using a smartphone’s camera or dedicated QR code scanner for scanning UPI payment QR codes. 
 
 Bluetooth could play a role in facilitating the connection between devices (like a phone and a POS terminal), but the actual scanning and processing of UPI payments usually happens through the app directly on the device.
