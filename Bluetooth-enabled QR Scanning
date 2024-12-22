@@ -31,8 +31,10 @@ This would effectively combine Bluetooth for device communication and QR code sc
 Security: UPI transactions need to be secure, and transmitting payment information via Bluetooth introduces additional potential risks. 
 Ensuring that encryption is in place and that the Bluetooth connection is secure is crucial.
 Standardization: There isn’t currently a standardized method to integrate UPI with Bluetooth for QR code scanning. 
-While QR codes are widely used for payments, Bluetooth is more commonly used for data transfer (e.g., device pairing or file sharing), so such integration would require developing custom solutions.
-Compatibility: Not all devices may have the necessary software or hardware to support Bluetooth-based QR code scanning and UPI payments. Both the sender (e.g., a smartphone) and receiver (e.g., a POS system) would need to support the integration.
+While QR codes are widely used for payments, Bluetooth is more commonly used for data transfer (e.g., device pairing or file sharing), 
+so such integration would require developing custom solutions.
+Compatibility: Not all devices may have the necessary software or hardware to support Bluetooth-based QR code scanning and UPI payments. Both the sender (e.g., a smartphone) 
+and receiver (e.g., a POS system) would need to support the integration.
 
 
 4. Existing Solutions and Alternatives
