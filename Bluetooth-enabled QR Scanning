@@ -15,7 +15,8 @@ While UPI itself doesn’t inherently rely on Bluetooth, it is possible to use B
 Bluetooth QR Scanner: Some specialized hardware, such as Bluetooth-enabled QR code scanners, could capture the QR code and send the scanned data to a smartphone or other device using Bluetooth. 
 In this scenario, the device would use a UPI app to make the payment once the QR code is scanned.
 Phone-to-Phone Communication: Bluetooth could be used to send the scanned QR code data from one phone to another. 
-If two devices are close enough and they support the proper protocols, one phone might scan the QR code and transmit the necessary information to the second phone via Bluetooth. The second phone could then process the payment using UPI.
+If two devices are close enough and they support the proper protocols, one phone might scan the QR code and transmit the necessary information to the second phone via Bluetooth. 
+The second phone could then process the payment using UPI.
 
 
 B. Automated Payments
