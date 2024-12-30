@@ -1,5 +1,6 @@
 A breakdown of how the components work and how integration might be possible:
 
+
 1. UPI and QR Codes
 UPI allows users to make payments using a smartphone or a UPI-enabled app. One of the common ways to make payments using UPI is through QR codes. 
 These QR codes encode payment information like the UPI ID, amount, and other transaction details. To pay, users scan the QR code through a UPI app.
